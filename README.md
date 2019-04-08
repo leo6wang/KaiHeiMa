@@ -15,8 +15,17 @@ ps：附近的人和资讯功能仅实现了demo界面，后端逻辑尚未实�
 服务器基于java线程池
 数据库采用MySQL
 
+登录界面：
 ![登录界面](https://github.com/BloodyPanda/KaiHeiMa/blob/master/img-demo/login.png)
+
+注册界面：
 ![注册界面](https://github.com/BloodyPanda/KaiHeiMa/blob/master/img-demo/regist.png)
+
+聊天界面：
 ![聊天界面](https://github.com/BloodyPanda/KaiHeiMa/blob/master/img-demo/chat_2.png)
+
+资讯界面：
 ![资讯界面](https://github.com/BloodyPanda/KaiHeiMa/blob/master/img-demo/news_list.png)
+
+附近的人界面：
 ![附近的人界面](https://github.com/BloodyPanda/KaiHeiMa/blob/master/img-demo/friend_nearby.png)
